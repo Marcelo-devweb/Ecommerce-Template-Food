@@ -19,8 +19,6 @@
 
 ## Pré-requisitos
 
-Liste quaisquer pré-requisitos que o usuário deve atender antes de usar o projeto.
-
 - GIT (v2.0.0 ou superior)
 - Node.js (v18.0.0 ou superior)
 - NPM (v9.0.0 ou superior)
