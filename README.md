@@ -6,10 +6,8 @@
 
 - [Início Rápido](#início-rápido)
 - [Pré-requisitos](#pré-requisitos)
-- [Instalação de bibliotecas](#instalação-de-bibliotecas)
+- [Instalação de bibliotecas](#instalação-das-dependencias)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 - [Contato](#contato)
 
 ## Início Rápido
@@ -27,9 +25,9 @@ Liste quaisquer pré-requisitos que o usuário deve atender antes de usar o proj
 - Node.js (v18.0.0 ou superior)
 - NPM (v9.0.0 ou superior)
 
-## Instalação de bibliotecas
+## Instalação das dependecias
 
-1. 
+1. npm i @vitejs/plugin-react
 2. 
 3. 
 
@@ -38,22 +36,9 @@ Liste quaisquer pré-requisitos que o usuário deve atender antes de usar o proj
 - Execute `npm start` para iniciar o servidor.
 - Acesse o aplicativo no navegador em `http://localhost:3000`.
 
-## Contribuição
-
-Explique como as pessoas podem contribuir para o seu projeto.
-
-
-- Abra problemas (issues) para relatar bugs ou solicitar recursos.
-- Envie pull requests com correções ou melhorias.
-
-## Licença
-
-Este projeto está licenciado sob a [Nome da Licença]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
 
-Forneça informações de contato, caso os usuários queiram entrar em contato com você para perguntas ou colaboração.
+Se desejar estabelecer contato comigo para esclarecimento de dúvidas ou para relatar quaisquer problemas, gentilmente disponibilizo meu endereço de e-mail e perfil no Instagram a seguir:
 
-
-- Email: seu-email@example.com
-- Twitter: [@seu-username](https://twitter.com/seu-username)
+- Email: marcelodevweb.info@gmail.com
+- Instagram: @marcelo.devweb
