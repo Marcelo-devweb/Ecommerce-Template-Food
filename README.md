@@ -6,7 +6,7 @@
 
 - [Início Rápido](#início-rápido)
 - [Pré-requisitos](#pré-requisitos)
-- [Instalação de bibliotecas](#instalação-das-dependencias)
+- [Instalação das Dependências](#instalação-das-dependencias)
 - [Uso](#uso)
 - [Contato](#contato)
 
@@ -15,7 +15,7 @@
 1. Clone o repositório: `git clone https://github.com/Marcelo-devweb/Ecommerce-Template-Comida`
 2. Navegue até o diretório do projeto: `cd Ecommerce-Template-Comida`
 3. Execute `npm install` para instalar as dependências.
-4. Execute `npm start` para iniciar o aplicativo.
+4. Execute `npm run dev` para iniciar o aplicativo.
 
 ## Pré-requisitos
 
@@ -25,15 +25,15 @@ Liste quaisquer pré-requisitos que o usuário deve atender antes de usar o proj
 - Node.js (v18.0.0 ou superior)
 - NPM (v9.0.0 ou superior)
 
-## Instalação das dependecias
+## Instalação das dependêcias
 
-1. npm i @vitejs/plugin-react
-2. 
-3. 
+1. `npm i @vitejs/plugin-react`
+2. ``
+3. ``
 
 ## Uso
 
-- Execute `npm start` para iniciar o servidor.
+- Abra o terminal e execute `npm run dev` para iniciar o servidor.
 - Acesse o aplicativo no navegador em `http://localhost:3000`.
 
 ## Contato
