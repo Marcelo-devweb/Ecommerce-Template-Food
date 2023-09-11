@@ -13,7 +13,7 @@ const NewsLetter = () => {
                 </div>
                 <div className="w-full max-w-[500px] relative">
                     <input type="email" className="py-4 px-6 w-full rounded-full" placeholder="Seu email..."/>
-                    <button className="bg-accentDark absolute top-[50%] right-2 translate-y-[50%] py-2 px-4 rounded-full hover:bg-accent">Inscreva-se</button>
+                    <button className="bg-accentDark absolute top-[-20%] right-2 translate-y-[50%] py-2 px-4 rounded-full hover:bg-accent">Inscreva-se</button>
                 </div>
             </div>
         </div>
