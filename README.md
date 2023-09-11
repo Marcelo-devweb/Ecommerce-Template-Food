@@ -26,8 +26,9 @@
 ## Instalação das dependêcias
 
 1. `npm i @vitejs/plugin-react`
-2. ``
-3. ``
+2. `npm i -D tailwindcss postcss autoprefixer`
+3. `npx tailwindcss init -p`
+4. `npm i react-icons --save`
 
 ## Uso
 
