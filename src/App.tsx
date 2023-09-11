@@ -2,6 +2,7 @@ import Banner from "./components/Banner";
 import Breakfast from "./components/Breakfast";
 import Category from "./components/Category";
 import FeatureSection from "./components/FeatureSection";
+import Footer from "./components/Footer";
 import Fruits from "./components/Fruits";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
@@ -20,6 +21,7 @@ const App = () => {
       <News />
       <NewsLetter />
       <FeatureSection />
+      <Footer />
     </main>
   );
 };
