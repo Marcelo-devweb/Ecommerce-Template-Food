@@ -1,4 +1,4 @@
-import ProductCard from "./ProductCard";
+import ProductCard from "../Product Card/ProductCard";
 
 const data = [
     { id: 0, img: "/back.webp", name: "Teste", price: "R$500"},

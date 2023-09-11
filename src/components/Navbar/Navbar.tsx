@@ -1,6 +1,6 @@
 import { BsSearch } from "react-icons/bs";
 import { AiOutlineUser, AiOutlineShoppingCart } from "react-icons/ai";
-import CartCountBadge from "./CartCountBadge";
+import CartCountBadge from "../Cart/CartCountBadge";
 
 const Navbar = () => {
     return ( 

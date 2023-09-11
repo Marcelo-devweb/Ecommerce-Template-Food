@@ -1,6 +1,6 @@
-# Ecommerce-Template-Comida
+# Ecommerce-Template-Food
 
- O projeto "Ecommerce-Template-Comida" é uma solução de template flexível e pronta para uso, projetada para simplificar a criação de lojas online de alimentos e delivery de comida. Este template foi cuidadosamente desenvolvido para atender às necessidades específicas de restaurantes, cafés, pizzarias, food trucks e qualquer negócio relacionado à indústria de alimentos.
+ O projeto "Ecommerce-Template-Food" é uma solução de template flexível e pronta para uso, projetada para simplificar a criação de lojas online de alimentos e delivery de Food. Este template foi cuidadosamente desenvolvido para atender às necessidades específicas de restaurantes, cafés, pizzarias, food trucks e qualquer negócio relacionado à indústria de alimentos.
 
 ## Índice
 
@@ -12,8 +12,8 @@
 
 ## Início Rápido
 
-1. Clone o repositório: `git clone https://github.com/Marcelo-devweb/Ecommerce-Template-Comida`
-2. Navegue até o diretório do projeto: `cd Ecommerce-Template-Comida`
+1. Clone o repositório: `git clone https://github.com/Marcelo-devweb/Ecommerce-Template-Food`
+2. Navegue até o diretório do projeto: `cd Ecommerce-Template-Food`
 3. Execute `npm install` para instalar as dependências.
 4. Execute `npm run dev` para iniciar o aplicativo.
 
