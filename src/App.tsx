@@ -1,3 +1,4 @@
+import Banner from "./components/Banner";
 import Breakfast from "./components/Breakfast";
 import Category from "./components/Category";
 import Fruits from "./components/Fruits";
@@ -12,6 +13,7 @@ const App = () => {
       <Category />
       <Fruits />
       <Breakfast />
+      <Banner />
     </main>
   );
 };
