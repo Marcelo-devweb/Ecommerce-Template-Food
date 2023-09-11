@@ -4,6 +4,8 @@ import Category from "./components/Category";
 import Fruits from "./components/Fruits";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
+import News from "./components/News";
+import NewsLetter from "./components/NewsLetter";
 
 const App = () => {
   return(
@@ -14,6 +16,8 @@ const App = () => {
       <Fruits />
       <Breakfast />
       <Banner />
+      <News />
+      <NewsLetter />
     </main>
   );
 };
