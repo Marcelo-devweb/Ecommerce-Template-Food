@@ -1,10 +1,10 @@
 import ProductCard from "../Product Card/ProductCard";
 
 const data = [
-    { id: 0, img: "/bolo.jpg", name: "Bolo Fofo", price: "R$500"},
-    { id: 1, img: "/iorgute.jpg", name: "Iorgute", price: "R$500"},
-    { id: 2, img: "/pao.jpg", name: "Teste", price: "R$500"},
-    { id: 3, img: "/pizza.jpg", name: "Pizza Portuguesa (G)", price: "R$25,00"},
+    { id: 0, img: "/bolo.jpg", name: "Bolo Fofo", price: "R$14,99"},
+    { id: 1, img: "/iorgute.jpg", name: "Iorgute", price: "R$3,95 und."},
+    { id: 2, img: "/pao.jpg", name: "Pão Cacetinho", price: "R$0,35 und."},
+    { id: 3, img: "/queijo.jpg", name: "Queijo Mussarela", price: "R$54,90 kg"},
 ];
 
 const FeatureSectionBreakfast = () => {
