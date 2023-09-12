@@ -5,7 +5,7 @@ const data = [
         id: 0,
         name: "Abacate",
         count: "10 Produtos",
-        img: "/abacate.jpg",
+        img: "/Abacate.png",
     },
     {
         id: 1,
