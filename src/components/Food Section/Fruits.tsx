@@ -1,10 +1,10 @@
 import ProductCard from "../Product Card/ProductCard";
 
 const data = [
-    { id: 0, img: "/goiaba.jpg", name: "Goiaba", price: "R$8,78 kg"},
-    { id: 1, img: "/laranja.jpg", name: "Laranja", price: "R$2,25 kg"},
-    { id: 2, img: "/macaruja.webp", name: "Maracujá", price: "R$15,99 kg"},
-    { id: 3, img: "/melancia.jpg", name: "Melancia", price: "R$2,29 kg"},
+    { id: 0, img: "./fruits/goiaba.png", name: "Goiaba", price: "R$8,78 kg"},
+    { id: 1, img: "./fruits/laranja.png", name: "Laranja", price: "R$2,25 kg"},
+    { id: 2, img: "./fruits/maracuja.png", name: "Maracujá", price: "R$15,99 kg"},
+    { id: 3, img: "./fruits/melancia.png", name: "Melancia", price: "R$2,29 kg"},
 ];
 
 const FeatureSectionFruits = () => {
